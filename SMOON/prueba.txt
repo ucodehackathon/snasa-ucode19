@@ -1,0 +1,13 @@
+757  156.9016. Esta muestra es uno de los 3 primeros picos de control
+759  156.9016. Esta muestra es uno de los 3 primeros picos de control
+1007  133.3139. Esta muestra es uno de los 3 primeros picos de control
+1009  156.9016
+1266  156.9016
+1268  156.9016
+9298  156.9016
+9452  156.9016
+13930  116.3965
+14198  117.6415
+14200  120.888
+14479  156.9016
+El valor de los 3 ultimos picos se corresponde a picos de control
